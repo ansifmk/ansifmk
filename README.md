@@ -33,7 +33,7 @@ const ansif = {
             css: ["Tailwind", "Bootstrap"]
         },
        
-        devOps: [ "AWS", "Vercel", "Git"],
+        devOps: [  "Vercel", "Git"],
         tools: [ "VS Code", "Figma"]
     },
     currentFocus: "Building scalable full-stack applications",
