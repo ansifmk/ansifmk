@@ -47,7 +47,7 @@ const ansif = {
 - 🌱 Learning **.Net, JavaScript, React**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Redux Web Development**
-- 📫 Reach me at **mohammedansifmka@gmail.com**
+- 📫 Reach me at **mkmohammedansif@gmail.com**
 - ⚡ Fun fact: **I code better with lo-fi music 🎧**
 
 <br/>
